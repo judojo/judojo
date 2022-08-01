@@ -2,5 +2,6 @@
 - 👀 I’m interested in product strategy and helping teams create value.
 - 🌱 I’m currently learning: "Sooner Safer Happier" by Jonathan Smart with "Scrum Mastery" by Geoff Watts on deck. 
 - 💞️ I’m looking to collaborate on product development and IT capability as a competitive advantage.
+- 👷‍♂️ Lean TECHniques https://leantechniques.com
 - 📫 How to reach me: joneal@leantechniques.com
 - 🏫 BS, University of Kansas 2008; MBA, University of Florida 2013
